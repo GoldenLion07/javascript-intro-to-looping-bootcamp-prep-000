@@ -22,4 +22,3 @@ function doWhileLoop(array){
   return array
 }
 
-console.log
