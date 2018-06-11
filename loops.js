@@ -12,7 +12,7 @@ return array
 var sample_arr = [];
 console.log(forLoop(sample_arr));
 
-function whileLoop(number){
+function whileLoop(n){
   while (n > 0)
   {console.log(n--)}
   return 'done'
