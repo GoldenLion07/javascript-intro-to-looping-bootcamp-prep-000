@@ -5,13 +5,7 @@ function forLoop (array) {
   }
   
 }
+
 function whileLoop(number){
-  let countdown = 100;
-  while (countdown > 0){
-    console.log('done')
-  }
+  while (n > 0)
 }
- 
- function doWhileLoop(array){
-   
- }
